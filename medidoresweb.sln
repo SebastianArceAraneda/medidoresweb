@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medidoresweb", "medidoresweb\medidoresweb.csproj", "{1415A77E-3FF8-46D2-A682-27BDFD7F95E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedidoresWebModel", "MedidoresWebModel\MedidoresWebModel.csproj", "{E37E2428-DD44-4062-9102-999AC209B751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1415A77E-3FF8-46D2-A682-27BDFD7F95E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1415A77E-3FF8-46D2-A682-27BDFD7F95E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1415A77E-3FF8-46D2-A682-27BDFD7F95E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1415A77E-3FF8-46D2-A682-27BDFD7F95E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37E2428-DD44-4062-9102-999AC209B751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37E2428-DD44-4062-9102-999AC209B751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37E2428-DD44-4062-9102-999AC209B751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37E2428-DD44-4062-9102-999AC209B751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3B925D-7C2D-406F-9CB6-CFC45B1B9B54}
+	EndGlobalSection
+EndGlobal
